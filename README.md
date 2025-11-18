@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 **🔭 I'm currently working on Designing IoT solutions for Caschrow.** <br/>
 **👯 I'm looking to collaborate on Open-source projects related to RTOS or scalable IoT data visualization dashboards.** <br/>
 **🌱 I'm currently learning Advanced techniques in Embedded C++ and exploring RTOS architectures.** <br/>
