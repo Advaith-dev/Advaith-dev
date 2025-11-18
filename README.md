@@ -1,7 +1,7 @@
 # 💫 About Me:
 **🔭 I'm currently working on Designing IoT solutions for Caschrow.** <br/>
 **👯 I'm looking to collaborate on Open-source projects related to RTOS or scalable IoT data visualization dashboards.** <br/>
-**🌱 I'm currently learning Advanced techniques in Embedded C++ and exploring specific RTOS architectures for better project scalability.** <br/>
+**🌱 I'm currently learning Advanced techniques in Embedded C++ and exploring RTOS architectures.** <br/>
 **❓ Ask me about Arduino, ESP32 projects, optimizing code for constrained environments, basic electronics/circuit design.**
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/advaith-manoj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:advaithmanoj10@gmail.com) 
